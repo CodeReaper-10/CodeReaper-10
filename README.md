@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/ou5atu5.png)
+![MasterHead](https://user-images.githubusercontent.com/81917570/217593431-4d3b2aca-2e90-4c9f-8bc0-bfea834a4807.png)
 <h1 align="center">Hi 👋, I'm Adipta Santra</h1>
 <h3 align="center">A passionate Full Stack Engineer and a DevOps enthusiast currently working as a CDE Java FSE at Cognizant. Exploring new technologies is one of my passions and I would love to learn and bring out the best in me for the same. My current goal is to be associated with a befitting role that would provide me with an opportunity to enhance my skills and to become a team that progressively works towards the growth of the organization.</h3>
 <img align="right" alt="Coding" width="350" src="https://i.imgur.com/lhAvOYN.png">
